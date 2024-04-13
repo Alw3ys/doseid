@@ -7,7 +7,6 @@
     "export": "node index.js"
   },
   "type": "module",
-  "license": "ISC",
   "dependencies": {
     "@dosei/dosei": "^0.0.1-a9"
   }
