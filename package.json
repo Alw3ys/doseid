@@ -1,0 +1,14 @@
+{
+  "name": "doseid",
+  "version": "0.0.1",
+  "description": "Dosei Daemon Cluster Config",
+  "main": "index.js",
+  "scripts": {
+    "export": "node index.js"
+  },
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@dosei/dosei": "^0.0.1-a9"
+  }
+}
